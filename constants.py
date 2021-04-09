@@ -1,0 +1,9 @@
+### Constant Variables
+
+TICK_EMOJI = '<a:yes:758723567667118182>'
+CROSS_EMOJI = '<a:error:758723527804715018>'
+
+# Rock Paper Scissors
+ROCK_EMOJI = '<:rock:758767111388004362>'
+PAPER_EMOJI = '<:paper:758767149706903642>'
+SCISSORS_EMOJI = ':scissors:'
